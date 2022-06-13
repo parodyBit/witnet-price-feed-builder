@@ -20,6 +20,9 @@ parts/
 sdist/
 var/
 wheels/
+data/requests/
+data/gecko/
+.idea
 pip-wheel-metadata/
 share/python-wheels/
 *.egg-info/
